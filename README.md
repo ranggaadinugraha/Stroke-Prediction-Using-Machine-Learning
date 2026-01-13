@@ -80,8 +80,8 @@ A comparison table is generated to analyze the performance of each model.
 
 ---
 
-## ▶️ How to Run
-1. Clone this repository
-2. Install required dependencies
-```bash
-pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn plotly missingno pywaffle
+## 🚀 How to Run
+1. Open the notebook using Google Colab  
+2. Upload the dataset file:  
+   `healthcare-dataset-stroke-data.csv`  
+3. Run all cells sequentially  
